@@ -1,2 +1,7 @@
 /*.OBJ
 /*.EXE
+
+# Not these files
+!LINK.EXE
+!MASM.EXE
+!DEBUG.EXE

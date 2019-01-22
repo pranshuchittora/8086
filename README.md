@@ -1,9 +1,9 @@
-# 8086
 
-All assembly code for MP&MC lab.
-<img align="center" src="/docs/images/dosbox.png" />
+<div align="center">
+<img  src="./docs/images/dosbox.png" />
+</div>
 
-<h2 align="center">WINDOWS</h2>
+## WINDOWS
 
 - Clone the repo
 - Open Command Prompt (Run -> CMD)
@@ -11,7 +11,7 @@ All assembly code for MP&MC lab.
 
 ---
 
-<h2 align="center">UNIX</h2>
+## UNIX
 
 > Clone
 
